@@ -1,4 +1,4 @@
-package com.bugayov.gettogether.presenter
+package com.gettogether.presenter
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
